@@ -1,5 +1,7 @@
 ### Hi there, I'm Patrick 👋
 
+- 🌱 I’m currently learning Web-Dev at neuefische
+
 [![FlyingMoe91's github stats](https://github-readme-stats.vercel.app/api?username=FlyingMoe91)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

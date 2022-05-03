@@ -1,5 +1,7 @@
 <h1 align="center">Hi guys, I'm Patrick 👋</h1>
 
+<br>
+
 - 💻 I just finished a web developmment bootcamp at <a href="https://www.neuefische.de/"> neuefische </a>
 
 - 🎯 now I'm on the hunt for a job as a junior frontend developer

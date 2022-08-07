@@ -2,9 +2,7 @@
 
 <br>
 
-- 💻 I just finished a web developmment bootcamp at <a href="https://www.neuefische.de/"> neuefische </a>
-
-- 🎯 now I'm on the hunt for a job as a junior frontend developer
+- 💻 Finished a web developmment bootcamp at <a href="https://www.neuefische.de/"> neuefische </a> and work as Junior Frontend Developer at KPS
 
 - 🌍 I'm a passionate diver, traveler and football player
 
